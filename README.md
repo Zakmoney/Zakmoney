@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zaki</h1>
 <h3 align="center">I'm studying in O'clock school developpeur fullstack and accessibilty</h3>
 
-- 🌱 I’m currently learning **HTML , CSS, SASS JAVASCRIPT, VANILLA,NODE.JS, REACT, POSTGRESQL**
-
+- 🌱 I’m currently learning **HTML , CSS, SASS JAVASCRIPT
 - 📫 How to reach me **zaki.diop@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
